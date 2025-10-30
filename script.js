@@ -1,3 +1,3 @@
 console.log('Hello, World!');
-console.log('contribution from contributor');
-alert('commit by mistake by owner');
+console.log('contribution ferom contributor');
+alert('commit by mistake by owlner');
